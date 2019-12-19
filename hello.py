@@ -1,3 +1,6 @@
-hello
-commit.
-world.
+h
+e
+l
+l
+o
+
